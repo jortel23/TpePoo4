@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "MYO 7/1/2020 10:47",
+	"super" : "Object",
+	"category" : "TpePoo4",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"nom",
+		"prenom",
+		"telephone",
+		"email"
+	],
+	"name" : "Personne",
+	"type" : "normal"
+}

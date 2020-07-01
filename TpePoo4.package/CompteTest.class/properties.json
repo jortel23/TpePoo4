@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "MYO 6/30/2020 21:42",
+	"super" : "TestCase",
+	"category" : "TpePoo4",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"compte1",
+		"compte2"
+	],
+	"name" : "CompteTest",
+	"type" : "normal"
+}

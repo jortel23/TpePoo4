@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "MYO 6/30/2020 21:43",
+	"super" : "Object",
+	"category" : "TpePoo4",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"numero",
+		"solde",
+		"statut"
+	],
+	"name" : "Compte",
+	"type" : "normal"
+}

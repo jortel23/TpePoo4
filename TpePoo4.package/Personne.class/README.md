@@ -1,0 +1,1 @@
+classe regroupant les clients employes en relation d'heritage

@@ -1,0 +1,1 @@
+classe de definition d'un compte(solde, numero)

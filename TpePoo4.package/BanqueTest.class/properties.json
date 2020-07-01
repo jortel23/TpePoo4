@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "TpePoo4",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"banque",
+		"compte",
+		"employe"
+	],
+	"name" : "BanqueTest",
+	"type" : "normal"
+}
