@@ -1,3 +1,3 @@
 initialization
 testTransfert
-self assert: (compte1 transfert: 3000 a: compte2 ).
+	compte transfert: 3000 a: (Compte new setSolde: 300)

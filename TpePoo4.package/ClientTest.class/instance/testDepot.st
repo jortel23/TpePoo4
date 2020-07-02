@@ -1,3 +1,4 @@
 initialization
 testDepot
-self assert: (client getCompte depot: 108000 ).
+"depot d'un compte a un autre"
+	client depotCompte: 108000 at: 2

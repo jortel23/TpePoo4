@@ -1,7 +1,7 @@
 initialization
-setUp 
-compte := Compte new.
-compte2 := Compte new.
-client := Client new.
-compte setSolde: 600000.
-client setCompteM: compte
+setUp
+	client := Client new.
+	compte1 := Compte new setSolde: 600000.
+	client addCompte: compte1.
+	client addCompte: (Compte new setSolde: 569998)
+	

@@ -6,8 +6,7 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"compte1",
-		"compte2"
+		"compte"
 	],
 	"name" : "CompteTest",
 	"type" : "normal"

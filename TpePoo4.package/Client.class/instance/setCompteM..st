@@ -1,3 +1,3 @@
-as yet unclassified
+accessors
 setCompteM: compt
 comptes  := compt

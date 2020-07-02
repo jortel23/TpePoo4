@@ -1,3 +1,5 @@
 initialization
 testFermerCompte
-self assert:( banque fermerCompte: compte effectuePar:employe).
+	banque
+		fermerCompte: compte
+		effectuePar: employe 

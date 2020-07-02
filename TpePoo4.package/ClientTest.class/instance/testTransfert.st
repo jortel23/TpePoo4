@@ -1,3 +1,5 @@
 initialization
 testTransfert
-self assert: (client getCompte transfert: 300000 a: compte2).
+	"transfert d'un compte a un autre a base d'indice"
+
+	client transfertCompte: 3000 de: 2 a: 1

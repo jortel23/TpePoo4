@@ -4,7 +4,9 @@
 	"category" : "TpePoo4",
 	"classinstvars" : [ ],
 	"pools" : [ ],
-	"classvars" : [ ],
+	"classvars" : [
+		"UniqueInstance"
+	],
 	"instvars" : [
 		"nom",
 		"adresse",

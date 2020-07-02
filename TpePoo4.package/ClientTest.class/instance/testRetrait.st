@@ -1,3 +1,4 @@
 initialization
 testRetrait
-self assert: (client getCompte retrait: 200000 ).
+"retrait dans un compte a l'aide de so indice"
+	client retraitCompte: 20000 at: 2
